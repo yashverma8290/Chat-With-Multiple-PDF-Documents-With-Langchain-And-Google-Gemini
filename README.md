@@ -1,5 +1,6 @@
+-----------------------------------------------------------------------------------------
 💬 Chat With Multiple PDF Documents using Langchain and Google Gemini Pro
-
+-----------------------------------------------------------------------------------------
 This project is a Streamlit-based AI chatbot that lets you upload multiple PDF files and ask questions based on their content using Google Gemini Pro (via LangChain). It uses:
 - GoogleGenerativeAIEmbeddings for semantic search
 - FAISS for local vector storage
