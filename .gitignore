@@ -1,6 +1,4 @@
 venv/
 __pycache__/
 .env
-gemini_key.json
-*.json
 key/
